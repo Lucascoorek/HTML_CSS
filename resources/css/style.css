@@ -13,7 +13,7 @@ html,
 body {
   background-color: #fff;
   color: #777777;
-  font-family: "Lato", "Arial", sans-serif;
+  font-family: "Lato", sans-serif;
   font-weight: 300;
   font-size: 20px;
   text-rendering: optimizeLegibility;
@@ -492,7 +492,7 @@ cite img {
 .plan-price {
   font-size: 300%;
   margin-bottom: 10px;
-  font-weight: 100;
+  font-weight: 300;
   color: #16a085;
 }
 .plan-price span {

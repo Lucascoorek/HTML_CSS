@@ -2,7 +2,7 @@
   "name": "foodon",
   "version": "1.0.0",
   "description": "Website was made based one the udemy coures: https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
